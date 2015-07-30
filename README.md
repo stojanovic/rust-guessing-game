@@ -1,5 +1,5 @@
 # Guessing game
-Just a simple Rust tutorial app
+Just a simple Rust app from a tutorial
 
 ------------
 
